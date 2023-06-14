@@ -33,14 +33,14 @@
 
 [Test Bank](https://github.com/O-Abdelaziz/ComputerArchitecture/blob/main/CH03_Testbank_COA9e_with_Answers.pdf.pdf)
 
-## Chapter 12: Performance Issues
+## Chapter 12: Instruction Sets: Characteristics and Functions
 [Lecture 4 Part 1 explained](https://www.youtube.com/watch?v=7MLVf-E-APY&ab_channel=MostafaElhosseini)
 
 [Lecture 4 Part 2 explained](https://www.youtube.com/watch?v=fYGHWNBM5ww&ab_channel=MostafaElhosseini)
 
 [Flashcards](https://quizlet.com/503229732/ch-13-instruction-sets-characteristics-and-functions-flash-cards/)
 
-## Chapter 13: Performance Issues
+## Chapter 13: Instruction Sets: Addressing Modes and Formats
 [Lecture 5 Part 1 explained](https://www.youtube.com/watch?v=VPeaoHTv4wo&ab_channel=MostafaElhosseini)
 
 
