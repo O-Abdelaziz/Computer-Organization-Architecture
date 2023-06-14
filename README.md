@@ -1,3 +1,4 @@
+### اللهم لا سهلَ إلا ما جعلتَه سهلاً، وأنت تجعل الحزنَ إذاشئتَ سهلاً 
 ## Chapter 1: Basic Concepts and Computer Evolution
 
 [Lecture 1 Part 1 explained](https://www.youtube.com/watch?v=VkG6pNhYihQ&list=PLRgW4R8PpA6AWp3InctqrVM6Moh_ourro&ab_channel=%D8%AF.%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D8%A8%D8%B7%D9%8A%D8%AD%D8%A9)
