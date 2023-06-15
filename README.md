@@ -15,7 +15,7 @@
 
 [Flashcards](https://quizlet.com/424693074/chapter-2-performance-issues-flash-cards/)
 
-[Test Bank]([https://github.com/O-Abdelaziz/ComputerArchitecture/blob/main/CH02_Testbank.pdf](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/fd055f9b877293ef0760bbed2b777e3174580111/Test%20Banks/CH02_Testbank.pdf))
+[Test Bank](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/fd055f9b877293ef0760bbed2b777e3174580111/Test%20Banks/CH02_Testbank.pdf)
 
 ## Chapter 3: A Top-Level View of Computer Function and Interconnection
 [Lecture 3 Part 1 explained](https://www.youtube.com/watch?v=4wSaGD1trZw&ab_channel=MostafaElhosseini)
