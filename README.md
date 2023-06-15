@@ -49,4 +49,4 @@
 [Flashcards](https://quizlet.com/337934128/cec470-chapter-13-instruction-sets-addressing-modes-and-formats-flash-cards/)
 
 ## Final Exams
-[COA Final]()
+[COA Final](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/main/Final%20Exams/COA_Final.pdf)
