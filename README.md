@@ -47,3 +47,6 @@
 [Flashcards](https://quizlet.com/457948356/computer-organization-and-architecture-chapter-13-instruction-sets-addressing-modes-and-formats-flash-cards/)
 
 [Flashcards](https://quizlet.com/337934128/cec470-chapter-13-instruction-sets-addressing-modes-and-formats-flash-cards/)
+
+## Final Exams
+[COA Final]()
