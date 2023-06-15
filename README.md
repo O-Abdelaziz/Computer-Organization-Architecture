@@ -8,7 +8,7 @@
 
 [Flashcards](https://quizlet.com/421519757/chapter-1-basic-concepts-and-computer-evolution-flash-cards/)
 
-[Test Bank](Test Banks/CH01_Testbank.pdf)
+[Test Bank](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/5f9b22a8d563c865c61f3b40e5698aa192e217ed/Test%20Banks/CH01_Testbank.pdf)
 
 ## Chapter 2: Performance Issues
 [Lecture 2 explained](https://www.youtube.com/watch?v=0UM8Ll0eNB0&ab_channel=StudentGuide-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%87%D9%85%D8%A7%D9%85)
