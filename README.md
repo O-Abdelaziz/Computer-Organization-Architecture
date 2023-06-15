@@ -31,7 +31,7 @@
 
 [Flashcards](https://quizlet.com/324392575/chapter-3-a-top-level-view-of-computer-function-and-interconnection-flash-cards/)
 
-[Test Bank](https://github.com/O-Abdelaziz/ComputerArchitecture/blob/main/CH03_Testbank_COA9e_with_Answers.pdf.pdf)
+[Test Bank](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/main/Test%20Banks/CH03_Testbank_COA9e_with_Answers.pdf.pdf)
 
 ## Chapter 12: Instruction Sets: Characteristics and Functions
 [Lecture 4 Part 1 explained](https://www.youtube.com/watch?v=7MLVf-E-APY&ab_channel=MostafaElhosseini)
