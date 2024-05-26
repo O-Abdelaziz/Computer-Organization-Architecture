@@ -39,14 +39,16 @@
 [Lecture 4 Part 2 explained](https://www.youtube.com/watch?v=fYGHWNBM5ww&ab_channel=MostafaElhosseini)
 
 [Flashcards](https://quizlet.com/503229732/ch-13-instruction-sets-characteristics-and-functions-flash-cards/)
+[Test Bank](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/main/Test%20Banks/Lecture4_testbank.pdf)
 
 ## Chapter 13: Instruction Sets: Addressing Modes and Formats
 [Lecture 5 Part 1 explained](https://www.youtube.com/watch?v=VPeaoHTv4wo&ab_channel=MostafaElhosseini)
 
-
 [Flashcards](https://quizlet.com/457948356/computer-organization-and-architecture-chapter-13-instruction-sets-addressing-modes-and-formats-flash-cards/)
 
 [Flashcards](https://quizlet.com/337934128/cec470-chapter-13-instruction-sets-addressing-modes-and-formats-flash-cards/)
+
+[Test Bank](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/main/Test%20Banks/Lecture5_testbank.pdf)
 
 ## Final Exams
 [COA Final](https://github.com/O-Abdelaziz/Computer-Organization-Architecture/blob/main/Final%20Exams/COA_Final.pdf)
